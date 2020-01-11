@@ -11,8 +11,7 @@ So journaling is the process of recording your experiences and thoughts on perso
 
 ## My journal
 
-My own journal is actually the same notebook where I do personal planning. I'm trying to journal my life daily. I've been journaling my days for more than a year. Everyday I shortly describe my main impressions from the day and what happened. I often draw funny childish pictures there. The pictures describe some impressions or situations during the day as well. It makes my journal much brighter.
-I have one more notebook where I rarer write bigger notes. These notes usually describe my thoughts on some personal topics and work problems.
+My journal is a notebook. I've been journaling my life daily for more than a year. Everyday I shortly describe my main impressions from the day and what happened. I also often draw funny childish pictures there. The pictures describe some impressions or situations during the day as well. It makes my journal much brighter. I also do planning in my journal but as I said before, I won't cover it in this post. I have another notebook where I rarer write bigger notes. These notes usually describe my thoughts on some personal topics and work problems.
 
 ## 3 advantages of journaling
 
