@@ -7,7 +7,7 @@ This post is to discuss what journaling is and how it works with examples from m
 
 ## What is journaling
 
-So journaling is the process of recording your experiences and thoughts on personal topics. There are no strict rules what exactly journal should consist of. It's kind of art where you yourself define how your journal will look and what it will be about. Your journal can be either a simple notebook or audio files. You can even draw pictures instead of writing. You can do it daily or weekly, or whenever you like. Although I'd separate journaling from personal planning where you are focused on tracking your goals. Instead, the feature of journaling is your personal insights. Let me describe my journal for example.
+So journaling is the process of recording your experiences and thoughts on personal topics. There are no strict rules what exactly journal should consist of. It's kind of art where you yourself define what your journal will look like and what it will be about. Your journal can be either a simple notebook or audio files or in any formant you prefer. You can even draw pictures instead of writing. You can do it daily or weekly, or whenever you like. You can have your personal insights as well as your goals in your journal. However, in this post, I'll focus on journaling your experiences and thoughts instead of planning. I think planning deserves a separate discussion. Okay, so let me describe my journal for example so you get a better understanding what it's all about.
 
 ## My journal
 
