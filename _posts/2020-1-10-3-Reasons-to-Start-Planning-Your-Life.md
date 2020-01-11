@@ -3,7 +3,7 @@ layout: post
 title: 3 Reasons to Start Planning Your Life
 ---
 
-Here I'll be happy to share with you my 3 reasons why you may want to start doing personal planning.
+Here I'll be happy to share with you my 3 reasons why you may want to start planning your life.
 
 ## What is personal planning
 
@@ -31,4 +31,4 @@ When talking about self-discipline, it’s important to mention that planning tr
 
 Summarising, with journaling, you start being more proactive as you think about your future more. You also understand better whether you need to work more on something because you constantly assess your performance. Finally, you boost your self-awareness taking your life under control.
 
-That’s it. I do personal planning and all these reasons are from my own experience only. So I hope my insights encouraged you a little bit to at least try planning. Thank you very much for reading.
+That’s it. I personally plan a lot and all these reasons are from my own experience only. So I hope my insights encouraged you a little bit to at least try planning. Thank you very much for reading.
