@@ -28,7 +28,7 @@ Furthermore, journaling also helps formulate your opinion on topics you're conce
 Journaling is a great stress management tool. Various studies showed that journaling is an amazing way to cope with stress. It helps you gain control under emotions and improves mental health. It lets you pour out emotions in such a quiet way. When you're frustrated, you can write down whatever comes to your mind. Then you'll probably have feeling like if you complained to someone. It makes you relief. I remember how I experienced it when I was so under emotions that I was ready for some drastic, incorrigible decisions. However, when I put my emotions on the paper, I relieved a lot and I changed my mind. I realise now how I'd regret if I really made this decision. Such situations occurred with me many times. 
 I have one more funny example what journaling does with my emotions. As I said earlier, I draw pictures in my own journal. The pictures describe some situations or my impressions. When I draw some happy moments, I automatically smile. When what I draw frustrates me, I automatically frown. It was funny to notice how my face expression automatically changes. Once I finish my picture or writing, I feel like I poured out my emotions.
 
-#### Story of your life
+#### Personal History
 
 Finally, your journal is a story of your life. It’s great when you can see how you changed and what your old days looked like. I often flip through the old pages feeling nostalgic about those days. It’s amazing.
 
