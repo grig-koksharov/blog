@@ -33,4 +33,6 @@ It often happened that my friends lost me and they missed some important news in
 
 ## Summary
 
-Unfortunately, I didn’t start spending all of those 15 hours a month on online courses, books, etc. 
+Unfortunately, I didn’t start spending all of those 15 hours a month on online courses, books, etc. Moreover, sometimes I forgot to support relationship with my friends and family since I wasn’t reminded about them on Instagram. So it wasn’t that perfect how I could imagine before. However, I think it was a super positive change in my life I would recommend to anyone.
+
+Thank you for reading.
