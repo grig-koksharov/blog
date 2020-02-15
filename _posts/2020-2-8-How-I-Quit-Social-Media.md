@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I quit social media
+title: How I Quit Social Media
 ---
 
 In this post, I’ll share with you what changed in my life since I quit social media a year ago.
