@@ -4,8 +4,8 @@ title: 3 Reasons to Start Planning Your Life
 published: true
 ---
 ![1-reasons-to-plan.png]({{site.baseurl}}/images/1-reasons-to-plan.png)
-
 Here I'll be happy to share with you my 3 reasons why you may want to start planning your life.
+<!--more-->
 
 ## What is personal planning
 
