@@ -4,8 +4,8 @@ title: How I Quit Social Media
 published: true
 ---
 ![5-social-media.png]({{site.baseurl}}/images/5-social-media.png)
-
 In this post, I’ll share with you what changed in my life since I quit social media a year ago.
+<!--more-->
 
 ## What made me quit
 
