@@ -1,10 +1,11 @@
 ---
-published: false
+published: true
 layout: post
 ---
 ## 7 Self-Improvement Ideas
 
 Hey, let me share with you some of my simple ideas for self-development.
+<!--more-->
 
 #### Learning a new language
 I recently learned some German using the mobile app Duolingo. It's a cool exercise for brains. Also, you will probably find the language useful in some situations. Besides that, you may find it interesting to explore the culture along with learning the language.
