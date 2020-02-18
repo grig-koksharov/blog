@@ -2,6 +2,7 @@
 # This file contains configuration flags to customize your site
 #
 excerpt_separator: <!--more-->
+paginate: 5
 
 # Name of your site (displayed in the header)
 name: Grigory K
