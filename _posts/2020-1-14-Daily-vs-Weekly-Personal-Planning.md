@@ -2,8 +2,9 @@
 layout: post
 title: Daily vs Weekly Personal Planning
 ---
-
+![4-daily-vs-weekly.png]({{site.baseurl}}/images/4-daily-vs-weekly.png)
 Is it more useful to plan daily or to plan weekly? How does the frequency of planning affect your productivity? What about for how long you plan? Let’s ponder these questions a little bit.
+<!--more-->
 
 Any kind of personal planning is already cool. It boosts your productivity and helps you achieve your goals. However, planning can be different and it’s worth thinking about how to make your planning as efficient as possible. Planning varies in different factors. Some of these factors are the frequency of planning and for how long you plan. That’s what I’d like to focus on here.
 
