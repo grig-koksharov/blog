@@ -1,9 +1,8 @@
 ---
 published: true
 layout: post
+title: 7 Self-Improvement Ideas
 ---
-## 7 Self-Improvement Ideas
-
 Hey, let me share with you some of my simple ideas for self-development.
 <!--more-->
 
