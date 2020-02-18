@@ -2,7 +2,7 @@
 layout: post
 title: How Journaling Changes Your Life
 ---
-
+![2_change-life.png]({{site.baseurl}}/images/2_change-life.png)
 This post is to discuss what journaling is and how it works with examples from my own experience.
 
 ## What is journaling
