@@ -3,6 +3,7 @@ published: true
 layout: post
 title: 7 Self-Improvement Ideas
 ---
+![6-seven-ideas.png]({{site.baseurl}}/images/6-seven-ideas.png)
 Hey, let me share with you some of my simple ideas for self-development.
 <!--more-->
 
