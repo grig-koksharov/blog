@@ -23,12 +23,12 @@ avatar: /images/avatar.svg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: grig.koksharov@gmail.com
+  email: # grig.koksharov@gmail.com
   facebook:
   flickr:
   github:
   instagram: # koksharov_grisha
-  linkedin: grigory-koksharov-13304b153
+  linkedin: # grigory-koksharov-13304b153
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
