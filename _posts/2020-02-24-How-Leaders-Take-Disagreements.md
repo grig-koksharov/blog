@@ -22,6 +22,6 @@ Personal leadership books suggest to us to really try to listen to people. Not t
 
 I suggest a method to achieve this empathic listening: repeat what the other person thinks while he/she doesn’t say that you understand him/her. I use this method a lot and it really helps win over.
 
-While the approach is quite natural and obvious, many people forget about it. So try to understand other people first before you disagree with someone.
+While the approach is quite natural and obvious, many people forget about it. So try to understand other people first before you disagree with them.
 
 Thank you for reading.
