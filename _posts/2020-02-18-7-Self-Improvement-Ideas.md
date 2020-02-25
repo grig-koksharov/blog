@@ -4,7 +4,7 @@ layout: post
 title: 7 Self-Improvement Ideas
 ---
 ![6-seven-ideas.png]({{site.baseurl}}/images/6-seven-ideas.png)
-Hey, let me share with you some of my simple ideas for self-development.
+Hey, let us share with you some simple ideas for self-development.
 <!--more-->
 
 ### Learning a new language
