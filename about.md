@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Hi, my name is Grigory.
+Welcome to _leadely_!
 
-This site is my notebook where I formulate my ideas on such topics as personal planning and personal leadership.
+The goal of _leadely_ is to propagate ideas from books of personal leadership genre.
 
-You can reach me via my email grig.koksharov@gmail.com.
+You can reach us via the following email: grig.koksharov@gmail.com.
