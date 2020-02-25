@@ -10,7 +10,7 @@ Here we'll be happy to share with you 3 reasons why you may want to start planni
 ## What is personal planning
 
 First of all, let us explain what we mean by personal planning here. Personal planning is the process of creating an action plan based on awareness, values, reflection, goal-setting, and planning for personal development within the context of career, education, health, relationships, work-life balance or for self-improvement. For example, this plan can be written as lists of your goals for a day, a week, or a month. You can have it in your notebook or in a mobile app for example. Once you write a plan, you constantly update it and check where you are and where you should go.
-A personal plan can develop your vision for your future, helping you achieve more from your life – whatever that may be! A personal plan can help you find your dream job, attain your health goals, develop your relationships or simply allow yourself the time to work on yourself. A personal plan supports you on your journey to build a balanced life and engage more with the things you really want to get done. How does a personal plan do so? Let me show it to you describing 3 benefits you get with personal planning.
+A personal plan can develop your vision for your future, helping you achieve more from your life – whatever that may be! A personal plan can help you find your dream job, attain your health goals, develop your relationships or simply allow yourself the time to work on yourself. A personal plan supports you on your journey to build a balanced life and engage more with the things you really want to get done. How does a personal plan do so? Let us show it to you describing 3 benefits you get with personal planning.
 
 ## 3 Benefits of planning
 
