@@ -3,6 +3,7 @@ published: true
 layout: post
 title: 4 Personal Development Dimensions
 ---
+![7-dimensions.png]({{site.baseurl}}/images/7-dimensions.png)
 Here I'd like to introduce to you 4 personal development dimensions defined by Stephen Covey.
 <!--more-->
 
