@@ -8,10 +8,10 @@ paginate: 5
 paginate_path: /page:num/
 
 # Name of your site (displayed in the header)
-name: Grigory K
+name: leadely
 
 # Short bio or description (displayed in the header)
-description: Personal leadership & planning
+description: personal leadership & planning
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/avatar.svg
