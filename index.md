@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About
 ---
 
 Welcome to _leadely_!
