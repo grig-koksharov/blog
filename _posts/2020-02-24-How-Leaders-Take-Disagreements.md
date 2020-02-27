@@ -3,6 +3,7 @@ layout: post
 title: How Leaders Take Disagreements
 published: true
 ---
+![8-disagreements.png]({{site.baseurl}}/images/8-disagreements.png)
 This post will introduce to you the approach on how to productively deal with disagreements. This approach is taught in many books of personal leadership genre.
 <!--more-->
 
