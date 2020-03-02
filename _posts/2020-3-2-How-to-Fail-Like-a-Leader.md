@@ -23,12 +23,10 @@ First, let me describe the worst case of how you can deal with failures. Have yo
 
 Hopefully, it's not your case since you at least found time and motivation to read this post. However, we all more or less tend to give up when coming across failures. Let's now speak about how personal leadership books suggest us to take failures.
 
-So instead of just giving up, we should take as much as possible from this negative experience and then we should go on to the next challenges. We shouldn't stop trying, but we should move on with the improved experience.
+So instead of just giving up, we should take as much as possible from this negative experience and then we should go on to the next challenges. We shouldn't stop trying, but we should move on with the improved experience. Let's better think about our failures as about opportunities to become better and to learn from that negative experience. Some people say that you learn the best from your own mistakes. That's exactly what the advice points out to.
 
-Another important thing is that sometimes people can't admit their own mistakes. They think like they don't fail at all while they evidently do. Such behavior is obviously still worse than admitting your failure and improving your experience based on it. Repeating the same mistake twice is awful.
+Another important thing is that sometimes people can't admit their own mistakes. They think like they don't fail at all while they evidently do. Such behavior is obviously still worse than admitting your failure and improving your experience based on it. Repeating the same mistake twice is awful. It's much better to accept the mistake and to soak up the knowledge like a sponge to not step on a rake.
 
-Let's better think about our failures as about opportunities to become better and to learn from that negative experience. Some people say that you learn the best from your own mistakes. That's exactly what the advice points out to.
-
-The advice is pretty obvious and simple, isn't it? It is. Like the majority of ideas in personal leadership literature. However, you may notice how many people don't follow these ideas. Let's not be like that.
+The advice is pretty obvious and simple, isn't it? It is. Like the majority of ideas in personal leadership literature. However, you may notice how many people don't follow these ideas. Just imagine what if all people always approach failures like that? Then everyone would win over some day. However, we see how people forget to follow this obvious idea and they give up. Let's not be like that. Let's own our lives and be leaders.
 
 Thank you for reading.
