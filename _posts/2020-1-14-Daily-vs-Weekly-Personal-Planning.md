@@ -2,7 +2,7 @@
 layout: post
 title: Daily vs Weekly Personal Planning
 ---
-![4-daily-vs-weekly.png]({{site.baseurl}}/images/4-daily-vs-weekly.png)
+![Daily vs Weekly Personal Planning]({{site.baseurl}}/images/4-daily-vs-weekly.png)
 Is it more useful to plan daily or to plan weekly? How does the frequency of planning affect your productivity? What about for how long you plan? Let’s ponder these questions a little bit.
 <!--more-->
 
@@ -14,9 +14,13 @@ We all are familiar with a problem when we don’t do important but not urgent t
 
 However, planning reminds us of these important but not urgent goals. Planning helps us realize that it’s the time we need to work on these goals. That’s where it matters for how long your plans are. If you plan for a too short period of time, you are obviously too focused on urgent things. So you are more likely to ignore long-term, not urgent goals. In contrast, when you plan for a long enough time, you take into account long-term goals because you have the capacity to achieve them for this period of time. Therefore the longer you plan for, the more proactive you are in planning.
 
+![How for how long you plan for affects the quality of your goals]({{site.baseurl}}/images/4-quality-of-goals.svg)
+
 ## Frequency of planning
 
 The more you plan, the more you remind yourself about the goals you should focus on. It’s easy to lose this focus when you plan too rare. If you plan only once a month, you can too quickly forget about your plans next week. Although if you visit your planner from time to time, goals stick to your mind better. It’s much easier to lose concentration on your tasks when you plan weekly comparing with daily planning.
+
+![How frequency of planning affects how you are stick to your goals]({{site.baseurl}}/images/4-sticking-to-plan.svg)
 
 ## So how should we plan?
 
