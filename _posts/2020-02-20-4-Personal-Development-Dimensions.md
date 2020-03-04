@@ -3,11 +3,12 @@ published: true
 layout: post
 title: 4 Personal Development Dimensions
 ---
-![7-dimensions.png]({{site.baseurl}}/images/7-dimensions.png)
+![4 Personal Develpment Dimensions]({{site.baseurl}}/images/7-dimensions.png)
 Here I'd like to introduce to you 4 personal development dimensions defined by Stephen Covey.
 <!--more-->
 
-Stephen Covey is the author of the book "7 habits of highly effective" where he mentioned this concept of 4 personal growth dimensions: physical, spiritual, mental, social/emotional. The concept is that we need to constantly balance our personal development across these dimensions.
+Stephen Covey is the author of the book "7 Habits of Highly Effective People" where he mentioned this concept of 4 personal growth dimensions: physical, spiritual, mental, social/emotional. The concept is that we need to constantly balance our personal development across these dimensions.
+![Self-development dimensions]({{site.baseurl}}/images/7-dimensions-illustration.svg)
 
 Covey actually explains this concept only at the end of the book when you are supposed to be familiar with the rest of the book. For example, he says that we have to be proactive to apply this concept. That's really true because not proactive people just don't schedule personal development at all so that there is nothing to balance across these dimensions. However, let me introduce to you this concept anyway since you may be proactive enough without reading the rest of the book.
 
