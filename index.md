@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Welcome to _leadely_! Check out what we have for you in [our blog]({{ site.baseurl }}/blog)!
+Welcome to _leadely_! Check out what we have for you in [**our blog**]({{ site.baseurl }}/blog)!
 
 ## About blog
 
