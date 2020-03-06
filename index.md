@@ -6,7 +6,9 @@ Welcome to _leadely_! Check out what we have for you in [**our blog**]({{ site.b
 
 ## About blog
 
-Let us explain to you here what our blog is about in general. Briefly, our mission is to make you more successful via personal leadership principles. Our articles aren't perfectly written. They aren't so rich in language since this blog is led by nonnative speakers. However, our main purpose here isn't to entertain you but to deliver you the ideas on how to make you more productive in your life. We do this through the principles of personal leadership literature. The principles we share are concrete and specific. They aren't just from our heads. We take them from the recognized books of personal leadership genre. Although we understand that these ideas are arguable, we still find most of them amazing so we want to share them with you. We hope you'll find them amazing as well! 
+Briefly, our mission is to make you more successful via personal leadership principles.
+
+Our articles aren't perfectly written. They aren't so rich in language since this blog is led by nonnative speakers. However, our main purpose here isn't to entertain you but to deliver you the ideas on how to make you more productive in your life. We do this through the principles taken from personal leadership literature. The principles we share are concrete and specific. They aren't just from our heads. We take them from the recognized books of personal leadership genre. Although we understand that these ideas are arguable, we still find most of them amazing so we want to share them with you. We hope you'll find them amazing as well! 
 
 ## Contact
 
