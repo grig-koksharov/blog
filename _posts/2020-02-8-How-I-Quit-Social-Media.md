@@ -23,7 +23,7 @@ I was used to communicating with my friends in social media apps. Since I remove
 
 I started to live a more real life. Earlier, when I was traveling, I was focused on what photos I could make. I was thinking more about what other people think about me. Once I quit social media, I was more concentrated on my feelings and impressions.
 
-Once I quit social media, I noticed that I spent more time useful. Instead of social media, I spent many hours in educational mobile applications. I learned German in Duolingo app and I explored the world map in Geography app.
+Once I quit social media, I noticed that I spent more time useful. Instead of social media, I spent many hours in educational mobile applications. I learned German in Duolingo app and I explored the world map in StudyGe app.
 
 Another positive point is that less unimportant people left in my life. I devoted more time to real friends and family.
 
