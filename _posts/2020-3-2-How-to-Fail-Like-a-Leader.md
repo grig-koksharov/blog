@@ -5,7 +5,7 @@ published: true
 ---
 
 ![How to Fail Like a Leader]({{site.baseurl}}/images/9-fail.png)
-This post will teach you the approach on how to take your failures as a leader.
+Here we share with you the approach on how personal leadership literature advices to take failures.
 <!--more-->
 
 You'll probably agree with me that anyone fails a lot. Even all successful people truly failed at some point. However, it's important how you deal with failures and what you take from them. This is the thing that distinguishes leadership behavior from unsuccessful behavior. This is the thing which is discussed in plenty of personal leadership books and the same advice is given everywhere. This post will share with you this advice.
