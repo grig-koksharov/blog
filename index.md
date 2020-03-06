@@ -10,4 +10,4 @@ Let us explain to you here what our blog is about in general. Briefly, our missi
 
 ## Contact
 
-You can reach us via the following email: grig.koksharov@gmail.com.
+You can reach us via the following email: [grig.koksharov@gmail.com](mailto:grig.koksharov@gmail.com).
