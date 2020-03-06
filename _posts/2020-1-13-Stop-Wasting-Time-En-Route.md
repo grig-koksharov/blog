@@ -3,7 +3,7 @@ layout: post
 title: Stop Wasting Time En Route
 ---
 ![3-en-route.png]({{site.baseurl}}/images/3-en-route.png)
-How much time do you waste en route to work or school? What if you spend this time usefully? Let's discuss how we can change the situation.
+How much time do you waste en route to work or school? What if you spend this time usefully?
 <!--more-->
 
 It's sad to realize how much time we wasted and how we could spend it better. It's inescapable that we have to do many simple things that unfortunately take much time. For example washing dishes, ironing, cleaning and so on. And of course, traveling to work or school. Imagine how much you could improve if you spend this time on self-improvement. If you have two 15-minutes trips every workday and if you find some way to spend just 10 minutes of a trip usefully, then you'll win about 7 hours a month. Sounds amazing. Let's now jump into thinking about how exactly we can spend this time better.
