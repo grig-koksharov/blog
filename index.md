@@ -2,8 +2,6 @@
 layout: page
 ---
 
-## About
-
 _Leadely_ is a personal planning app. Its development is in progresss currently.
 
 ## Contact
