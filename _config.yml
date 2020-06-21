@@ -11,7 +11,7 @@ paginate_path: /blog/page:num/
 name: Leadely
 
 # Short bio or description (displayed in the header)
-description: Personal leadership blog
+description: Personal planning app
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/avatar.svg
